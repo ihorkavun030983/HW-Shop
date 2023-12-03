@@ -1,0 +1,20 @@
+.container{
+    max-width: 500px;
+}
+.categories{
+    color: blue;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.products{
+    color: coral;
+    margin-left: 50px;
+}
+.description{
+    font-size: 16px;
+    font-weight: 300;
+    max-width: 150px;
+    margin-left: 50px;
+    color: green;
+}
